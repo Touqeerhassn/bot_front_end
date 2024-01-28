@@ -1,4 +1,4 @@
-Copy code: git clone https://github.com/user/project.git in your desired folder.
+Copy code: git clone in your desired folder.
 Open terminal in the cloned folder. (Windows: Shift+right-click, "Open command prompt here").
 Install tools: npm i to get project ready.
 
